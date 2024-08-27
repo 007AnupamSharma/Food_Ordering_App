@@ -1,4 +1,4 @@
-# Food Ordering App 🍔🍕🍦
+# Food BONUNZO 🍔🍕🍦
 
 The Food Ordering App is a mobile application developed using Flutter, allowing users to browse and order a variety of food items from different categories like pizza, burgers, salads, and ice cream. The app integrates with Firebase Firestore for real-time data retrieval and storage, providing a seamless and responsive user experience.
 
