@@ -16,7 +16,16 @@ dependencies:
   velocity_x: ^4.1.2
   get: ^4.6.6
   curved_navigation_bar: ^1.0.3
-  
+  firebase_auth: ^4.15.3
+  cloud_firestore: ^4.13.6
+  firebase_core: ^2.24.2
+  flutter_stripe: ^11.0.0
+  http: ^1.2.2
+  random_string: ^2.3.1
+  shared_preferences: ^2.3.2
+  image_picker: ^1.1.2
+  firebase_storage: 
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
